@@ -6,7 +6,6 @@ GitHub Portfolio
 
 Here lays a collection of my projects and abilities!
 
-Applications That just Work
 
 
 ---------------------------------------------------
@@ -14,7 +13,7 @@ TABS
 ---------------------------------------------------
 Home Page
 - Projects
-- Referancess
+- References
 - About Mark
 
 
@@ -24,5 +23,8 @@ Videos
 
 
 ---------------------------------------------------
-TABS
+PROJECTS TAB
 ---------------------------------------------------
+
+Article - Applications That Work
+
